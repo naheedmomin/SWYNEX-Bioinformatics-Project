@@ -66,3 +66,15 @@ NCBI Gene Expression Omnibus: [GSE10072](https://www.ncbi.nlm.nih.gov/geo/query/
 
 ## Project Notebook
 The Jupyter Notebook containing the Python code, calculations, and analysis results is included in this folder.
+
+## How to Run the Notebook
+
+Download the GSE10072 series matrix file from the NCBI GEO database.
+
+Place the downloaded file, GSE10072_series_matrix.txt.gz, inside the data folder at the repository root.
+
+Open SWYNEX_Task2_Submission.ipynb using Jupyter Notebook.
+
+Run the notebook cells sequentially.
+
+Note: The notebook uses a relative file path to access the dataset.

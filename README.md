@@ -1,36 +1,46 @@
-# SWYNEX-Biological-Dataset-Selection
-Biological dataset selection and research question for a bioinformatics project using public NCBI GEO data.
+# SWYNEX Bioinformatics Project
 
-# Biological Dataset Selection
+## Project Overview
 
-## Project Topic
-Lung Adenocarcinoma Gene Expression
+This repository contains my work completed as part of the SWYNEX Bioinformatics Internship.
 
-## Overview
-This project focuses on selecting a publicly available biological dataset for computational analysis of gene expression in lung adenocarcinoma. The project will use existing biological data and will not involve laboratory experiments.
+The project focuses on biological dataset selection, data cleaning, statistical analysis, data visualization, and interpretation using publicly available genomic data.
 
-## Research Question
-Which genes show differences in expression between lung adenocarcinoma tumor tissue and non-tumor lung tissue?
+**Selected Dataset:** GSE10072 – Lung Adenocarcinoma Gene Expression
 
-## Dataset Information
-- **Repository:** NCBI Gene Expression Omnibus (GEO)
-- **Accession Number:** GSE10072
-- **Dataset Link:** https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE10072
-- **Organism:** Homo sapiens
-- **Data Type:** Gene expression microarray data
-- **Dataset Size:** 107 expression profiles (58 tumor and 49 non-tumor tissue profiles)
+## Project Tasks
 
-## Proposed Analysis
-The selected dataset will be explored using GEO2R to compare gene-expression measurements between tumor and non-tumor samples. Differential expression and statistical significance will be investigated in the analysis stage.
+### Task 1 – Biological Dataset Selection
+Selection and description of a publicly available biological dataset for computational analysis.
 
-## Tools
-- NCBI GEO
-- GEO2R
+[View Task 1](Task-1-Biological-Dataset-Selection/)
 
-## Status
-Dataset selection and research question documentation.
+### Task 2 – Data Cleaning and Basic Analysis
+Dataset inspection, data quality assessment, descriptive statistical analysis, and preliminary tumor vs non-tumor comparison using Python.
 
-## References
-- NCBI GEO: https://www.ncbi.nlm.nih.gov/geo/
-- GSE10072: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE10072
-- GEO2R: https://www.ncbi.nlm.nih.gov/geo/info/geo2r.html
+[View Task 2](Task-2-Data-Cleaning-and-Basic-Analysis/)
+
+### Task 3 – Visualization and Interpretation
+Coming soon.
+
+### Task 4 – Final Bioinformatics Report
+Coming soon.
+
+## Dataset Source
+
+NCBI Gene Expression Omnibus (GEO): [GSE10072](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE10072)
+
+## Tools and Technologies
+
+- Python
+- Jupyter Notebook
+- Anaconda
+- Pandas
+- NumPy
+- Matplotlib
+
+## Author
+
+**Naheed Momin**
+
+Bioinformatics Internship Project – SWYNEX

@@ -41,7 +41,11 @@ The visualizations were used to explore expression distributions, sample variabi
 
 ### Task 4 – Final Bioinformatics Report
 
-Coming soon.
+Preparation of a comprehensive bioinformatics report summarizing the dataset, research question, objectives, methodology, results, exploratory analysis, discussion, limitations, conclusion, and future directions.
+
+The report integrates findings from the previous tasks and presents the analysis of the GSE10072 gene expression dataset in a structured scientific format.
+
+[View Task 4 – Final Report](https://github.com/naheedmomin/SWYNEX-Bioinformatics-Project/tree/main/Task-4-Final-Bioinformatics-Report)
 
 ## Dataset Source
 
@@ -56,9 +60,14 @@ NCBI Gene Expression Omnibus (GEO): [GSE10072](https://www.ncbi.nlm.nih.gov/geo/
 - NumPy
 - Matplotlib
 
+## Project Workflow
+
+**Dataset Selection → Data Inspection and Cleaning → Basic Statistical Analysis → Visualization → Interpretation → Final Report**
+
 ## Author
 
 **Naheed Momin**
 
 Bioinformatics Internship Project – SWYNEX
+
 
